@@ -1,6 +1,6 @@
 # Portfolio-optimization
 # What's left to be done
-  Having the possibility to vary the risk exposition, the sectors you are exposed to or a maximum pourcetange of the portfolio on a single stock (i plan to do it)
+  Having the possibility to vary the risk exposition, the sectors you are exposed to or a maximum pourcetange of the portfolio on a single stock 
   Estimate the Value at Risk
   Take the best portfolio from 2018-2024 and see how it evolves through 2025 and half of 2026
 
